@@ -45,6 +45,6 @@ If required by law or regulations, we will get your permission or give you the o
 
 ## Contact us
 
-For any questions or concerns regarding your privacy or this policy, please contact our internal Data Protection Officer at wordcloudapp@gmail.com.
+For any questions or concerns regarding your privacy or this policy, please contact our internal Data Protection Officer at wordcloudapp.jira@gmail.com.
 
 © InsightViz 2023
