@@ -24,19 +24,19 @@ title-heading: false
 
 - Go to Jira Dashboards and either create new or select an existing one.
 
-![Opening Dashboard](./wfj-dashboards.png)
+<img src="./wfj-dashboards.png" width="50%" height="50%">
 
 - Click the Edit button in the top right in the Dashboard view.
 
-![Editing the Dashboard](./wfj-dashboards-edit.png)
+<img src="./wfj-dashboards-edit.png" width="50%" height="50%">
 
 - Find the Wordcloud gadget in the search by typing ‘Wordcloud’, click ‘Add'
 
-![Adding the gadget](./wfj-gadget-add.png)
+<img src="./wfj-gadget-add.png" width="50%" height="50%">
 
 - Your Gadget is added to the Dashboard and you can configure it before displaying a wordcloud.
 
-![Configuring the gadget](./wfj-configuration.png)
+<img src="./wfj-configuration.png" width="80%" height="80%">
 
 - Configuration options:
   - **Filter by Project**: Select a Jira project for the gadget to display from.
