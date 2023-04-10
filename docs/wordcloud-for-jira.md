@@ -1,4 +1,7 @@
-# Getting started
+---
+title-heading: false
+---
+# Wordcloud for Jira Documentation
 
 ## **Installing the app**
 
